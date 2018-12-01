@@ -1,5 +1,5 @@
 # Thapaswini
 created by Nandha Vardhan Reddy
 
-,pankaj patd
+,pankaj pat
 and fuerte developers team
